@@ -1,0 +1,8 @@
+﻿polars
+pyarrow
+numpy
+matplotlib
+scipy
+pandas
+scikit-learn
+mlxtend
